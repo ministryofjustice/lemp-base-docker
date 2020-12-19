@@ -9,7 +9,7 @@ A simple docker image for building a server running:
 
 ## Intended Usage
 
-Complete this section.
+Current server configuration is set-up to serve a Laravel application. Please consider the use of a `server.conf` override in your own application when using this as your base image.  
 
 ## Environment Variables
 
